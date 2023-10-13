@@ -1,1 +1,20 @@
+NAME : CHARAN KUMAR M
+LEARNING TRACK:DEVELOPER
+EMAIL ID - mopurucharan234@gmail.com
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/charankumarm
+USER NAME (DEVELOPER ORG) - mopurucharan234@gdcproject.com
+CONTACT - 9866539131
 
+NAME :TONDURU DILEEP
+LEARNING TRACK:DEVELOPER
+EMAIL ID - dileeptonduru.dt@gmail.com
+TRAILHEAD PROFILE: https://www.salesforce.com/trailblazer/dileeptonduru
+USER NAME (DEVELOPER ORG) - dileeptonduru.dt@gdcproject.com
+CONTACT - 8125717515
+
+NAME-JANAGANI SIVADEEP
+LEARNING TRACK - DEVELOPER
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/sivadeepjanagani9612
+USER NAME (DEVELOPER ORG) -
+sivadeepsivadeep595@gdcproject.com
+CONTACT - 6305278213
